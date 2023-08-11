@@ -1,4 +1,4 @@
-name: Render and deploy Quarto files
+name: Render
 on: 
   push:
   pull_request:
@@ -21,12 +21,6 @@ jobs:
     - name: "Install Quarto and render"
       uses: pommevilla/quarto-render@main
 
-    - name: "Deploy to gh-pages"
-      uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/master'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
 
 
 
