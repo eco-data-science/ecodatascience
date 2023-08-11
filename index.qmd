@@ -1,5 +1,5 @@
 ---
-title: "[**EcoDataScience**]{style=color:#fec500}"
+title: [**EcoDataScience**]
 image: images/tree-unsplash.png
 toc: false
 about: 
