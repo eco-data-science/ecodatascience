@@ -1,5 +1,5 @@
 ---
-title: [**EcoDataScience**]
+title: "**EcoDataScience**"
 image: images/tree-unsplash.png
 toc: false
 about: 
