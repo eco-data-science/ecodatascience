@@ -1,0 +1,28 @@
+
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+
+//@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap';
+
+@import 'https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap';
+
+$font-family: 'Montserrat', sans-serif;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+}

@@ -2,18 +2,41 @@ project:
   type: website
 
 website:
-  title: "ecodatascience"
+  title: "EcoDataScience"
+  # site-url: https://ecodatascience.github.io/
+  favicon: images/ecodatasci_logo.png  
+  
+  page-footer: 
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)"
+    left: "&copy; CC-By EcoDataScience"
+  
+  
+ 
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    logo: images/ecodatasci_logo.png
+    # href: https://openscapes.org
+    right:
+    # - text: "Home"
+    #   href: index.html
+    - text: "what we do"
+      href: what_we_do.qmd
+    - text: "events"
+      href: events.qmd
+    - text: "who we are"
+      href: who_we_are.qmd
+    - icon: github
+      href: https://github.com/eco-data-science/ecodatascience ## update!
+    - icon: twitter
+      href: https://twitter.com/ecodatasci
+
 
 format:
   html:
-    theme: cosmo
+    page-layout: full
+    sidebar: false
+    theme: [flatly, theme.scss]
     css: styles.css
+    mainfont: Montserrat
     toc: true
-
-editor: visual
+    toc-location: left
 

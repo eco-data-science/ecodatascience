@@ -1,11 +1,13 @@
 ---
-title: "ecodatascience"
+title: "[**EcoDataScience**]{style=color:#fec500}"
+image: images/tree-unsplash.png
+toc: false
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 40em
 ---
 
-This is a Quarto website.
+An environmental data science study group at UCSB and beyond
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**LET'S WORK TOGETHER**
