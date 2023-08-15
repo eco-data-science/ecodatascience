@@ -15,16 +15,16 @@ website:
  
   navbar:
     logo: images/ecodatasci_logo.png
-    # href: https://openscapes.org
+    # href: https://openscapes.org ## add link to website when ready
     right:
     # - text: "Home"
     #   href: index.html
-    - text: "what we do"
-      href: what_we_do.qmd
+    - text: "who we are"
+      href: who-we-are.qmd
     - text: "events"
       href: events.qmd
-    - text: "who we are"
-      href: who_we_are.qmd
+    - text: "community"
+      href: community-resources.qmd
     - icon: github
       href: https://github.com/eco-data-science/ecodatascience ## update!
     - icon: twitter
