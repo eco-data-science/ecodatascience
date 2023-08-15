@@ -1,27 +1,27 @@
-name: Render
-on: 
-  push:
-  pull_request:
-
-jobs:
-  quarto-render-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-
-    - name: Set up Quarto
-      uses: quarto-dev/quarto-actions/setup@v2
-      with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
-
-
-    - name: "Install Quarto and render"
-      uses: pommevilla/quarto-render@main
-
-
+# name: Render
+# on: 
+#   push:
+#   pull_request:
+# 
+# jobs:
+#   quarto-render-and-deploy:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - uses: actions/checkout@v2
+# 
+#     - name: Set up Quarto
+#       uses: quarto-dev/quarto-actions/setup@v2
+#       with:
+#           # To install LaTeX to build PDF book 
+#           tinytex: true 
+#           # uncomment below and fill to pin a version
+#           # version: 0.9.600
+# 
+# 
+#     - name: "Install Quarto and render"
+#       uses: pommevilla/quarto-render@main
+# 
+# 
 
 
 
