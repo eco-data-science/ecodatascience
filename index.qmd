@@ -8,7 +8,7 @@ about:
   # image-width: 40em
 ---
 
-An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.
+An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of _**learning, advancing and applying data science skills**_ in the environmental and ecological field.
 
 Come share your skills, learn from each other, troubleshoot together and meet people in your area of studies.
 
