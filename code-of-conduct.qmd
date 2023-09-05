@@ -1,0 +1,13 @@
+---
+title: "EcoDataScience Code of Conduct"
+---
+
+inspirations for an EcoDataScience Code of Conduct:
+
+* https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+* https://ropensci.org/code-of-conduct/
+* https://www.mozilla.org/en-US/about/governance/policies/participation/
+* https://openscapes.org/code-of-conduct
+* https://rladies.org/coc/
+
+
