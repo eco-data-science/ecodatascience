@@ -1,14 +1,53 @@
 ---
-title: "**EcoDataScience**"
-image: images/tree-unsplash.png
+# title: "**EcoDataScience**"
+image: images/ecodatasci_logo.png
 toc: false
-about: 
+about:
   template: jolla
-  image-shape: rectangle
-  image-width: 40em
+  image-shape: round
+  # image-width: 40em
 ---
 
-An environmental data science study group at UCSB and beyond
+An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.
+
+Come share your skills, learn from each other, troubleshoot together and meet people in your area of studies.
+
+<br>
 
 
-**LET'S WORK TOGETHER**
+<h3 style="color:#7bb2c1;">**Get involved, join our Slack community!**</h3>
+
+<br>
+
+
+[EcoDataScience Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Join"}
+
+![](images/slack-logo.png){width=10%}
+
+
+
+<!-- <h3 style="color:#7bb2c1;">**LET'S WORK TOGETHER**</h3> -->
+
+
+<br>
+
+<!--
+<br>
+::: {layout-ncol=3}
+
+
+![<font size="3">Sharing Skills</font> ](images/skill-sharing-icon.png){width=10%}
+
+![<font size="3">Co-Working</font>](images/co-working-icon.png){width=10%}
+
+![<font size="3">Building Community</font>](images/community-building-icon.png){width=10%}
+
+:::
+
+-->
+
+
+
+
+
+
