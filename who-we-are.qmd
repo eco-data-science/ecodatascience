@@ -3,7 +3,7 @@ title: "who we are"
 ---
 
 <center>
-We are a [supportive and welcoming](code-of-conduct.html) community of 
+EcoDataScience a [supportive and welcoming](code-of-conduct.html) community of 
 
 #### researchers, students, practitioners, and academics
 
@@ -18,7 +18,7 @@ We are a [supportive and welcoming](code-of-conduct.html) community of
 
 ---
 
-We learn, teach, collaborate, and support one another through our community-led workshops and Slack workspace.  While we primarily support reproducible coding and workflows using R/RStudio in conjunction with Git/GitHub, our membership includes and welcomes newbies, practitioners, and experts in other languages, workflows, and development environments.
+The members of EcoDataScience learn, teach, collaborate, and support one another through our community-led workshops and Slack workspace.  While we primarily support reproducible coding and workflows using R/RStudio in conjunction with Git/GitHub, our membership includes and welcomes newbies, practitioners, and experts in other languages, workflows, and development environments.
 
 Our organization was founded by researchers at [NCEAS](www.nceas.ucsb.edu) and UCSB's [Bren School](www.bren.ucsb.edu) in 2015, and our membership now includes over 500 members all over the world!
 
