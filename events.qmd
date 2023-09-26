@@ -1,3 +1,13 @@
 ---
 title: "events"
 ---
+
+<br>
+
+### 2023
+
+{{< include /2023-events.qmd >}}
+
+### past events
+
+Check out our [GitHub repositories](https://github.com/orgs/eco-data-science/repositories) with the materials of past workshops.

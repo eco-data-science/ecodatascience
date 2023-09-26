@@ -1,0 +1,7 @@
+---
+title: "Intro to tidymodels"
+date: 2023-11-07
+author: 
+    - name: Casey O'Hara
+---
+
