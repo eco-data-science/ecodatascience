@@ -1,8 +1,9 @@
 ---
+title: "2023"
 listing:
-  contents: "events-cards/2023"
+  contents: "events-2023"
   feed: true
-  sort: "date"
+  sort: "date desc"
   type: grid
   grid-item-border: true
   grid-item-align: left

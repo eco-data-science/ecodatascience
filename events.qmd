@@ -4,9 +4,9 @@ title: "events"
 
 <br>
 
-### 2023
 
-{{< include /2023-events.qmd >}}
+{{< include /events-cards/2023-events.qmd >}}
+
 
 ### past events
 
