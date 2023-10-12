@@ -1,0 +1,16 @@
+---
+title: "Fundamentals of Data Visualization"
+image: ugly_bad_wrong_wike.png
+date: 2023-12-05
+author:
+        - name: Camila Vargas Poulsen
+categories: [upcoming, 2023]
+order: 2
+---
+
+<br>
+
+<br>
+
+
+More details about this workshop soon!

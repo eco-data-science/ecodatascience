@@ -2,6 +2,8 @@
 title: "who we are"
 ---
 
+<!-- add image asset-->
+
 <center>
 
 EcoDataScience a [supportive and welcoming](code-of-conduct.html) community of

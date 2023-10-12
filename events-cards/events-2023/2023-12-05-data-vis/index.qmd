@@ -1,7 +1,0 @@
----
-title: "Fundamentals of Data Visualization"
-date: 2023-12-05
-author:
-        - name: Camila Vargas Poulsen
----
-

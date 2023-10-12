@@ -1,9 +1,10 @@
 [
   {
-    "listing": "/events-cards/2023-events.html",
+    "listing": "/events.html",
     "items": [
-      "/events-cards/events-2023/2023-12-05-data-vis/index.html",
-      "/events-cards/events-2023/2023-11-07-tidymodels/index.html"
+      "/events-cards/2023-11-07-tidymodels/index.html",
+      "/events-cards/2023-12-05-data-vis/index.html",
+      "/events-cards/past-events/index.html"
     ]
   }
 ]

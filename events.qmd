@@ -1,13 +1,25 @@
 ---
 title: "events"
+listing:
+  contents: "events-cards"
+  feed: true
+  sort: "order"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
 ---
 
-<br>
 
 
-{{< include /events-cards/2023-events.qmd >}}
 
 
-### past events
+<!--### past events
 
-Check out our [GitHub repositories](https://github.com/orgs/eco-data-science/repositories) with the materials of past workshops.
+Check out our [GitHub repositories](https://github.com/orgs/eco-data-science/repositories) with the materials of past workshops. -->

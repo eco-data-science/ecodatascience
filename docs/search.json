@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "2023",
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "EcoDataScience Code of Conduct",
     "section": "",
-    "text": "past events\nCheck out our GitHub repositories with the materials of past workshops."
+    "text": "inspirations for an EcoDataScience Code of Conduct:\n\nhttps://docs.carpentries.org/topic_folders/policies/code-of-conduct.html\nhttps://ropensci.org/code-of-conduct/\nhttps://www.mozilla.org/en-US/about/governance/policies/participation/\nhttps://openscapes.org/code-of-conduct\nhttps://rladies.org/coc/"
   },
   {
-    "objectID": "community-resources.html",
-    "href": "community-resources.html",
-    "title": "community - resources",
+    "objectID": "events-cards/2023-12-05-data-vis/index.html",
+    "href": "events-cards/2023-12-05-data-vis/index.html",
+    "title": "Fundamentals of Data Visualization",
     "section": "",
-    "text": "EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science. While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely. Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!\n\nThe Carpentries (SB org | global org teaches foundational coding and data science skills to researchers worldwide.\nR-Ladies (SB chapter | global org) is a worldwide organization whose mission is to promote gender diversity in the R community.\nOpenScapes is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science.\nrOpenSci fosters a culture that values open and reproducible research using shared data and reusable software.\n\nDescriptions for these resources come from the various websites linked.\nIf you represent an organization with a similar mission, please reach out and we will include a link!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EcoDataScience",
-    "section": "",
-    "text": "An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.\nCome share your skills, learn from each other, troubleshoot together and meet people in your area of studies.\n\n\nGet involved, join our Slack community!\n\n\nEcoDataScience Slack"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "More details about this workshop soon!"
   },
   {
     "objectID": "who-we-are.html",
@@ -35,17 +21,45 @@
     "text": "EcoDataScience a supportive and welcoming community of\n\nresearchers, students, practitioners, and academics\ninterested in learning and applying\n\n\ndata science principles and techniques\nprimarily in the context of\n\n\necology and environmental science.\n\n\nThe members of EcoDataScience learn, teach, collaborate, and support one another through our community-led workshops and Slack workspace. While we primarily support reproducible coding and workflows using R/RStudio in conjunction with Git/GitHub, our membership includes and welcomes newbies, practitioners, and experts in other languages, workflows, and development environments.\nOur organization was founded by researchers at NCEAS and UCSB’s Bren School in 2015, and our membership now includes over 500 members all over the world!\nWe are committed to maintaining a safe, welcoming, inclusive environment for all people at all levels of coding experience. All community members are expected to abide by our Code of Conduct in all interactions within the community."
   },
   {
-    "objectID": "events-cards/2023-events.html",
-    "href": "events-cards/2023-events.html",
-    "title": "2023",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EcoDataScience",
     "section": "",
-    "text": "Fundamentals of Data Visualization\n\n\n\n\n\n\nCamila Vargas Poulsen\n\n\nDec 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\nCasey O’Hara\n\n\nNov 7, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.\nCome share your skills, learn from each other, troubleshoot together and meet people in your area of studies.\n\n\nGet involved, join our Slack  community!\n\n\nEcoDataScience Slack"
   },
   {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "EcoDataScience Code of Conduct",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "events",
     "section": "",
-    "text": "inspirations for an EcoDataScience Code of Conduct:\n\nhttps://docs.carpentries.org/topic_folders/policies/code-of-conduct.html\nhttps://ropensci.org/code-of-conduct/\nhttps://www.mozilla.org/en-US/about/governance/policies/participation/\nhttps://openscapes.org/code-of-conduct\nhttps://rladies.org/coc/"
+    "text": "Intro to tidymodels\n\n\n\nupcoming\n\n\n2023\n\n\n\n\n\n\n\nCasey O’Hara\n\n\nNov 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFundamentals of Data Visualization\n\n\n\nupcoming\n\n\n2023\n\n\n\n\n\n\n\nCamila Vargas Poulsen\n\n\nDec 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPast Workshops Materials\n\n\n\npast event\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "community-resources.html",
+    "href": "community-resources.html",
+    "title": "community - resources",
+    "section": "",
+    "text": "EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science. While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely. Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!\n\nThe Carpentries (SB org | global org teaches foundational coding and data science skills to researchers worldwide.\nR-Ladies (SB chapter | global org) is a worldwide organization whose mission is to promote gender diversity in the R community.\nOpenScapes is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science.\nrOpenSci fosters a culture that values open and reproducible research using shared data and reusable software.\n\nDescriptions for these resources come from the various websites linked.\nIf you represent an organization with a similar mission, please reach out and we will include a link!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "events-cards/past-events/index.html",
+    "href": "events-cards/past-events/index.html",
+    "title": "Past Workshops Materials",
+    "section": "",
+    "text": "Check out the materials of past workshops GitHub."
+  },
+  {
+    "objectID": "events-cards/2023-11-07-tidymodels/index.html",
+    "href": "events-cards/2023-11-07-tidymodels/index.html",
+    "title": "Intro to tidymodels",
+    "section": "",
+    "text": "More details about this workshop soon!"
   }
 ]

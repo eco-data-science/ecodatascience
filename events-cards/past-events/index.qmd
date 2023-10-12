@@ -1,0 +1,9 @@
+---
+title: "Past Workshops Materials"
+image: ecodatasci_repos.png
+#date: 2015
+categories: [past event]
+order: 3
+---
+
+Check out the materials of past workshops [GitHub](https://github.com/orgs/eco-data-science/repositories).

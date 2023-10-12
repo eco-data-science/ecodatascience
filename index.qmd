@@ -15,14 +15,15 @@ Come share your skills, learn from each other, troubleshoot together and meet pe
 <br>
 
 
-<h3 style="color:#7bb2c1;">**Get involved, join our Slack community!**</h3>
+<h3 style="color:#7bb2c1;">**Get involved, join our Slack ![](images/slack-logo.png){width=5%} community!**</h3>
 
 <br>
 
-
 [EcoDataScience Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Join"}
 
-![](images/slack-logo.png){width=10%}
+<br>
+
+<!--(the button above will direct you the the Slack page for you so sign up and request to join our Slack)-->
 
 
 
