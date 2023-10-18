@@ -6,4 +6,10 @@ categories: [past event]
 order: 3
 ---
 
-Check out the materials of past workshops [GitHub](https://github.com/orgs/eco-data-science/repositories).
+
+Find the materials to all past workshops on [GitHub](https://github.com/orgs/eco-data-science/repositories).
+
+
+<!-- ADD A TABLE WITH THE INFORMSTION OF MOST RELEVANT WORKSHOPS AND DIRECT LING TO THE REPO-->
+
+<!-- [Introduction to Leaflet](https://github.com/eco-data-science/leaflet-intro). 2021. Mike Johnson & Marcela Suarez -->

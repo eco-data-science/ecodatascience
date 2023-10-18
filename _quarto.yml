@@ -14,7 +14,7 @@ website:
   
  
   navbar:
-    logo: images/ecodatasci_logo.png
+    logo: images/eds_final_hex.png
     # href: https://openscapes.org ## add link to website when ready
     right:
     # - text: "Home"

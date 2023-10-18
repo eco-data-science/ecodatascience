@@ -1,10 +1,10 @@
 ---
 # title: "**EcoDataScience**"
-image: images/ecodatasci_logo.png
+image: images/eco_data_sci_round.png
 toc: false
 about:
   template: jolla
-  image-shape: round
+  image-shape: rectangle
   # image-width: 40em
 ---
 
@@ -17,7 +17,6 @@ Come share your skills, learn from each other, troubleshoot together and meet pe
 
 <h3 style="color:#7bb2c1;">**Get involved, join our Slack ![](images/slack-logo.png){width=5%} community!**</h3>
 
-<br>
 
 [EcoDataScience Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Join"}
 
