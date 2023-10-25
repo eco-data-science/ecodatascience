@@ -11,4 +11,5 @@ order: 1
 
 <br>
 
-More details about this workshop soon!
+The `tidymodels` package streamlines many aspects of statistical modeling and machine learning in R, using `tidyverse` principles.  This workshop will be a gentle introduction to the `tidymodels` package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.
+
