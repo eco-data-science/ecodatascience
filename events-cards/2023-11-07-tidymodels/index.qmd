@@ -24,7 +24,7 @@ Please RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLSfxMZ7H-bH-fH8_jT9EX
 
 Pre-workshop prep: 
 
-1. install the `tidymodels` package
+1. install these packages (if not already installed): `tidyverse`, `here`, `tidymodels`, `ranger` (for random forest implementation)
 2. fork and clone this repository: [2023-11-07-tidymodels_workshop](https://github.com/ecodatascience/2023-11-07-tidymodels_workshop)
 
 :::
