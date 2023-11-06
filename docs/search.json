@@ -60,6 +60,6 @@
     "href": "events-cards/2023-11-07-tidymodels/index.html",
     "title": "Intro to tidymodels",
     "section": "",
-    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles. This workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall the tidymodels package\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
+    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles. This workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidymodels, ranger (for random forest implementation)\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
   }
 ]
