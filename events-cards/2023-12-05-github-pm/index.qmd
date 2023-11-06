@@ -1,6 +1,6 @@
 ---
-title: "Fundamentals of Data Visualization"
-image: ugly_bad_wrong_wike.png
+title: "GitHub for Project Management"
+image: issues_projects_openscapes.png
 date: 2023-12-05
 author:
         - name: Camila Vargas Poulsen
