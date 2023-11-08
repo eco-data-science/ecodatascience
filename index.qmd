@@ -5,7 +5,7 @@ toc: false
 about:
   template: jolla
   image-shape: rectangle
-  # image-width: 40em
+  image-width: 20em
 ---
 
 An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of ___learning, advancing and applying data science skills___ in the environmental and ecological field.

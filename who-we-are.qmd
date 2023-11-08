@@ -30,7 +30,9 @@ We are committed to maintaining a safe, welcoming, inclusive environment for all
 
 -----
 
-### EcoDataScience coordinating committee:
+#### EcoDataScience coordinating committee:
+
+If you would like to be involved in helping plan EcoDataScience events, such as proposing a workshop topic or teaching/co-teaching a future workshop, reach out to us!
 
 <center>
 [Camila Vargas Poulsen](https://github.com/camilavargasp)
