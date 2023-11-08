@@ -4,7 +4,7 @@ image: tidymodels_suits.png
 date: 2023-11-07
 author: 
     - name: Casey O'Hara
-categories: [upcoming, 2023]
+categories: [past, 2023]
 order: 1
 ---
 <br>
