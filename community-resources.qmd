@@ -1,5 +1,5 @@
 ---
-title: "community - resources"
+title: "community resources"
 ---
 
 EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science.  While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely.  Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!
