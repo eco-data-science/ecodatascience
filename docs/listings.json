@@ -2,8 +2,8 @@
   {
     "listing": "/events.html",
     "items": [
-      "/events-cards/2023-11-07-tidymodels/index.html",
       "/events-cards/2023-12-05-github-pm/index.html",
+      "/events-cards/2023-11-07-tidymodels/index.html",
       "/events-cards/past-events/index.html"
     ]
   }

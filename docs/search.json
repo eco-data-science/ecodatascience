@@ -11,7 +11,7 @@
     "href": "events-cards/2023-11-07-tidymodels/index.html",
     "title": "Intro to tidymodels",
     "section": "",
-    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles. This workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidymodels, ranger (for random forest implementation)\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
+    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles.\n\n\n\n\nThis workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidymodels, ranger (for random forest implementation)\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
   },
   {
     "objectID": "events-cards/2023-12-05-github-pm/index.html",
@@ -30,7 +30,7 @@
   {
     "objectID": "community-resources.html",
     "href": "community-resources.html",
-    "title": "community - resources",
+    "title": "community resources",
     "section": "",
     "text": "EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science. While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely. Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!\n\nThe Carpentries (SB org | global org teaches foundational coding and data science skills to researchers worldwide.\nR-Ladies (SB chapter | global org) is a worldwide organization whose mission is to promote gender diversity in the R community.\nOpenScapes is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science.\nrOpenSci fosters a culture that values open and reproducible research using shared data and reusable software.\n\nDescriptions for these resources come from the various websites linked.\nIf you represent an organization with a similar mission, please reach out and we will include a link!"
   },
@@ -39,7 +39,7 @@
     "href": "events.html",
     "title": "events",
     "section": "",
-    "text": "Intro to tidymodels\n\n\n\npast\n\n\n2023\n\n\n\n\n\n\n\nCasey O’Hara\n\n\nNov 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub for Project Management\n\n\n\nupcoming\n\n\n2023\n\n\n\n\n\n\n\nCamila Vargas Poulsen\n\n\nDec 5, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPast Workshops Materials\n\n\n\npast event\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "GitHub for Project Management\n\n\n\n\n\n\n\nUpcoming\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGithub\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -60,13 +60,13 @@
     "href": "events-cards/past-events/index.html",
     "title": "Past Workshops Materials",
     "section": "",
-    "text": "Find the materials to all past workshops on GitHub."
+    "text": "Find the materials to past workshops on GitHub."
   },
   {
     "objectID": "welcome.html",
     "href": "welcome.html",
-    "title": "new to EcoDataScience? start here!",
+    "title": "EcoDataScience",
     "section": "",
-    "text": "Our EcoDataScience workshops primarily focus on reproducible code in the R statistical programming language. We happily welcome and support new coders! However, some familiarity with R, RStudio, Git, and Github will help you hit the ground running. Additionally, many of our workshops presume some familiarity with the tidyverse family of R packages and their associated philosophy and coding style. These resources are all free and easily accessible. Here are some resources to get you started:\n\nInstalling and configuring Git on your computer (link to Learning Hub materials?)\nInstalling R and RStudio on your computer (link to Learning Hub materials?)\nIntroduction to data wrangling with the tidyverse (Learning Hub? Datacamp? Software Carpentry?)\n\nIf you have any questions or need some help getting up and running with these resources, reach out on Slack on the #beginnershelp channel, or direct message to one of the EcoDataScience coordinators."
+    "text": "new to EcoDataScience? start here!\nOur EcoDataScience workshops primarily focus on reproducible code in the R statistical programming language. We happily welcome and support new coders! However, some familiarity with R, RStudio, Git, and Github will help you hit the ground running. Additionally, many of our workshops presume some familiarity with the tidyverse family of R packages and their associated philosophy and coding style. These resources are all free and easily accessible. Here are some resources to get you started:\n\nInstalling and configuring Git on your computer\nInstalling R and RStudio on your computer\nIntroduction to programming in R\nIntroduction to data wrangling with the tidyverse\n\nIf you have any questions or need some help getting up and running with these resources, reach out on Slack on the #beginnershelp channel, or send a direct message to one of the EcoDataScience coordinators.\n\n\n(HeartyR art by the one and only @allison_horst)"
   }
 ]

@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="2023">2023 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="past">past <span class="quarto-category-count">(1)</span></div><div class="category" data-category="past event">past event <span class="quarto-category-count">(1)</span></div><div class="category" data-category="upcoming">upcoming <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Github">Github <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Past event">Past event <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Upcoming">Upcoming <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -186,100 +186,121 @@ Check out our [GitHub repositories](https://github.com/orgs/eco-data-science/rep
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="past,2023" data-listing-date-sort="1699344000000" data-listing-file-modified-sort="1699481759397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./events-cards/2023-11-07-tidymodels/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events-cards/2023-11-07-tidymodels/tidymodels_suits.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Intro to <code>tidymodels</code>
-</h5>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Upcoming,Github" data-listing-date-sort="1701763200000" data-listing-file-modified-sort="1699564123963" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./events-cards/2023-12-05-github-pm/index.html"> <img src="./events-cards/2023-12-05-github-pm/issues_projects_openscapes.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./events-cards/2023-12-05-github-pm/index.html">
+<h3 class="no-anchor listing-title">
+GitHub for Project Management
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('past'); return false;">
-past
+<div class="listing-category" onclick="window.quartoListingCategory('Upcoming'); return false;">
+Upcoming
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('2023'); return false;">
-2023
-</div>
-</div>
-<div class="card-text listing-description">
-<br>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Casey O’Hara
-</div>
-<div class="listing-date">
-Nov 7, 2023
+<div class="listing-category" onclick="window.quartoListingCategory('Github'); return false;">
+Github
 </div>
 </div>
-</div>
+<a href="./events-cards/2023-12-05-github-pm/index.html">
+<div class="listing-description">
+More details about this workshop soon!
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="upcoming,2023" data-listing-date-sort="1701763200000" data-listing-file-modified-sort="1699481559712" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<a href="./events-cards/2023-12-05-github-pm/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events-cards/2023-12-05-github-pm/issues_projects_openscapes.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-GitHub for Project Management
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('upcoming'); return false;">
-upcoming
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('2023'); return false;">
-2023
-</div>
-</div>
-<div class="card-text listing-description">
-<br>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Camila Vargas Poulsen
-</div>
+<div class="metadata">
+<a href="./events-cards/2023-12-05-github-pm/index.html">
 <div class="listing-date">
 Dec 5, 2023
 </div>
-</div>
-</div>
+<div class="listing-author">
+Camila Vargas Poulsen
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="past event" data-listing-file-modified-sort="1699481559718" data-listing-reading-time-sort="1">
-<a href="./events-cards/past-events/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./events-cards/past-events/ecodatasci_repos.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Past Workshops Materials
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('past event'); return false;">
-past event
 </div>
+<div class="quarto-post image-right" data-index="1" data-categories="Past event,R" data-listing-date-sort="1699344000000" data-listing-file-modified-sort="1699564448216" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./events-cards/2023-11-07-tidymodels/index.html"> <img src="./events-cards/2023-11-07-tidymodels/tidymodels_suits.png" class="thumbnail-image"> </a></p>
 </div>
-<div class="card-text listing-description">
-Find the materials to all past workshops on GitHub.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<div class="body">
+<a href="./events-cards/2023-11-07-tidymodels/index.html">
+<h3 class="no-anchor listing-title">
+Intro to <code>tidymodels</code>
+</h3>
+<div class="listing-subtitle">
 
 </div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Past event'); return false;">
+Past event
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
 </div>
 </div>
+<a href="./events-cards/2023-11-07-tidymodels/index.html">
+<div class="listing-description">
+The <code>tidymodels</code> package streamlines many aspects of statistical modeling and machine learning in R, using <code>tidyverse</code> principles.
 </div>
 </a>
+</div>
+<div class="metadata">
+<a href="./events-cards/2023-11-07-tidymodels/index.html">
+<div class="listing-date">
+Nov 7, 2023
+</div>
+<div class="listing-author">
+Casey O’Hara
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Past event,R,Github" data-listing-date-sort="1696143600000" data-listing-file-modified-sort="1699564448016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./events-cards/past-events/index.html"> <img src="./events-cards/past-events/ecodatasci_repos.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./events-cards/past-events/index.html">
+<h3 class="no-anchor listing-title">
+Past Workshops Materials
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Past event'); return false;">
+Past event
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Github'); return false;">
+Github
+</div>
+</div>
+<a href="./events-cards/past-events/index.html">
+<div class="listing-description">
+Find the materials to past workshops on GitHub.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./events-cards/past-events/index.html">
+<div class="listing-date">
+Oct 1, 2023
+</div>
+</a>
+</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">

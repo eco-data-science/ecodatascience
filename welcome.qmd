@@ -1,14 +1,26 @@
 ---
-title: "new to EcoDataScience? start here!"
+# title: "new to EcoDataScience? start here!"
+image: images/heartyr.gif
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
 ---
 
-<!-- add image asset-->
+### new to EcoDataScience? start here!
 
 Our EcoDataScience workshops primarily focus on reproducible code in the R statistical programming language.  We happily welcome and support new coders!  However, some familiarity with R, RStudio, Git, and Github will help you hit the ground running.  Additionally, many of our workshops presume some familiarity with the `tidyverse` family of R packages and their associated philosophy and coding style.  These resources are all free and easily accessible.  Here are some resources to get you started:
 
-* [Installing and configuring Git on your computer](https://learning.nceas.ucsb.edu/2023-10-coreR/session_02.html#set-up-global-options-in-git)
-* [Installing R and RStudio on your computer](https://learning.nceas.ucsb.edu/2023-10-coreR/session_01.html#rstudio-personal-setup)
-* [Introduction to programming in R](https://learning.nceas.ucsb.edu/2023-10-coreR/session_03.html)
-* [Introduction to data wrangling with the `tidyverse`](https://learning.nceas.ucsb.edu/2023-10-coreR/session_08.html)
+* [Installing and configuring Git on your computer](https://learning.nceas.ucsb.edu/2023-10-coreR/session_02.html#set-up-global-options-in-git){target="_blank"}
+* [Installing R and RStudio on your computer](https://learning.nceas.ucsb.edu/2023-10-coreR/session_01.html#rstudio-personal-setup){target="_blank"}
+* [Introduction to programming in R](https://learning.nceas.ucsb.edu/2023-10-coreR/session_03.html){target="_blank"}
+* [Introduction to data wrangling with the `tidyverse`](https://learning.nceas.ucsb.edu/2023-10-coreR/session_08.html){target="_blank"}
 
-If you have any questions or need some help getting up and running with these resources, reach out on [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU) on the `#beginnershelp` channel, or direct message to one of the EcoDataScience coordinators.
+If you have any questions or need some help getting up and running with these resources, reach out on [Slack](https://join.slack.com/t/ecodatascience/shared_invite/enQtNTE1MjAxMTU2NjQwLTZmYjQ5OGIyNjM0YTM4ZDhiMTA2Njc1Mjg2YjFlYWEwZDhlNjJmMTE3MzI2ZmM4ZTJhYTczNmZhYjk3YTI5NjU){target="_blank"} on the `#beginnershelp` channel, or send a direct message to one of the EcoDataScience coordinators.
+
+-----
+
+<p style="font-size: 10px; color: #757575; text-align: center;">
+(HeartyR art by the one and only @allison_horst)
+</p>

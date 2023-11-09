@@ -3,10 +3,12 @@ title: "events"
 listing:
   contents: "events-cards"
   feed: true
-  sort: "order"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
+  sort: 
+    - "date desc"
+  # type: grid
+  # grid-item-border: true
+  # grid-item-align: left
+  type: default
   max-description-length: 175
   date-format: medium
   categories: numbered

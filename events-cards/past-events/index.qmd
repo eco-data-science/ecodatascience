@@ -1,13 +1,13 @@
 ---
 title: "Past Workshops Materials"
 image: ecodatasci_repos.png
-#date: 2015
-categories: [past event]
+date: 2023-10-01
+categories: [Past event, R, Github]
 order: 3
 ---
 
 
-Find the materials to all past workshops on [GitHub](https://github.com/orgs/eco-data-science/repositories).
+Find the materials to past workshops on [GitHub](https://github.com/orgs/eco-data-science/repositories){target="_blank"}.
 
 
 <!-- ADD A TABLE WITH THE INFORMSTION OF MOST RELEVANT WORKSHOPS AND DIRECT LING TO THE REPO-->
