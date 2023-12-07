@@ -23,7 +23,7 @@ GitHub is mainly known as a version control platform that facilitates collaborat
 **Tuesday December 5, 11:30-1 PM**, [DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab) (RM 2322, Mountain side of the building on the second floor.)
 
 
-Find workshop materials in [ecodatascience GitHub](https://github.com/ecodatascience/github-for-project-management)
+Find workshop materials on the [ecodatascience GitHub](https://github.com/ecodatascience/2023-12-05-github-for-project-management)
 
 
 :::
