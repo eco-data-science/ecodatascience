@@ -1,0 +1,28 @@
+---
+title: "Text Analysis"
+image: silge-robinson.png
+date: 2024-02-14
+author:
+        - name: Casey O'Hara
+categories: [Upcoming event]
+order: 2
+---
+::: {.columns}
+
+::: {.column width="20%"}
+
+<br> 
+![](silge-robinson.png){width=90%}
+:::
+
+::: {.column width="80%"}
+
+MORE INFORMATION SOON
+
+
+**Wednesday February 14, 11:30-1 PM**, [DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab) (RM 2322, Mountain side of the building on the second floor.)
+
+
+:::
+
+:::

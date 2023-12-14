@@ -2,7 +2,7 @@
 title: "Past Workshops Materials"
 image: ecodatasci_repos.png
 date: 2023-10-01
-categories: [Past event, R, Github]
+categories: [Past event, R, GitHub]
 order: 3
 ---
 
