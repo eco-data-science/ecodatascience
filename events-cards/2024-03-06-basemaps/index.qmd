@@ -1,6 +1,6 @@
 ---
 title: "Basemaps and Intro to `sf`"
-image: issues_projects_openscapes.png
+# image: issues_projects_openscapes.png
 date: 2024-03-06
 author:
         - name: TBD
