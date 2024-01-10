@@ -17,7 +17,7 @@ order: 2
 
 ::: {.column width="80%"}
 
-Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Matt 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus package to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).
+Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The `tidycensus` package ([Walker and Herman 2021](https://walker-data.com/tidycensus/)) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the `tidycensus` to access census data efficiently and use `ggplot2` to plot and map this data at different census geographies (state, county, tract. etc.).
 
 
 
