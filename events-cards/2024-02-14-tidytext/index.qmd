@@ -21,7 +21,10 @@ Working with dataframes and tabular data is straightforward in R, but what about
 
 **Wednesday February 14, 11:30-1 PM**, [DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab) (RM 2322, Mountain side of the building on the second floor.)
 
+Pre-workshop prep: 
 
+1. install these packages (if not already installed): `tidyverse`, `here`, `tidytext`, `textdata`, `pdftools`, `ggwordcloud`
+2. fork and clone this repository: [2024-02-14-tidytext](https://github.com/ecodatascience/2024-02-14-tidytext){target="_blank"}
 :::
 
 :::
