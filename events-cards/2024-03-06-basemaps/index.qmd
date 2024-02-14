@@ -1,9 +1,9 @@
 ---
-title: "Basemaps and Intro to `sf`"
-# image: issues_projects_openscapes.png
+title: "Visualizing Spatial Data: Basemaps and Intro to `sf`"
+image: basemap-image.png
 date: 2024-03-06
 author:
-        - name: TBD
+        - name: Rachel King
 categories: [Upcoming event]
 order: 2
 ---
@@ -12,10 +12,12 @@ order: 2
 ::: {.column width="20%"}
 
 <br> 
-<!--![](issues_projects_openscapes.png){width=90%} -->
+![](basemap-image.png){width=90%}
 :::
 
 ::: {.column width="80%"}
+
+<br>
 
 MORE INFRMATION SOON
 

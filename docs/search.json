@@ -46,7 +46,7 @@
     "href": "events.html",
     "title": "events",
     "section": "",
-    "text": "Basemaps and Intro to sf\n\n\n\n\n\n\n\nUpcoming event\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nTBD\n\n\n\n\n\n\n  \n\n\n\n\nText Analysis\n\n\n\n\n\n\n\nUpcoming event\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\n\nUpcoming event\n\n\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Visualizing Spatial Data: Basemaps and Intro to sf\n\n\n\n\n\n\n\nUpcoming event\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nRachel King\n\n\n\n\n\n\n  \n\n\n\n\nText Analysis\n\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "community-resources.html",
@@ -67,7 +67,7 @@
     "href": "events-cards/2024-01-17-tidycensus/index.html",
     "title": "Working with Census data in R",
     "section": "",
-    "text": "Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).\nWednesday January 17, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)"
+    "text": "Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).\nFind all the metarials for this workshop here"
   },
   {
     "objectID": "events-cards/past-events/index.html",
@@ -79,7 +79,7 @@
   {
     "objectID": "events-cards/2024-03-06-basemaps/index.html",
     "href": "events-cards/2024-03-06-basemaps/index.html",
-    "title": "Basemaps and Intro to sf",
+    "title": "Visualizing Spatial Data: Basemaps and Intro to sf",
     "section": "",
     "text": "MORE INFRMATION SOON\nWednesday March 6, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)"
   },

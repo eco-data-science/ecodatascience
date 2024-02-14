@@ -3,6 +3,7 @@ title: "events"
 listing:
   contents: "events-cards"
   feed: true
+  image-height: 150px
   sort: 
     - "date desc"
   # type: grid

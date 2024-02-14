@@ -4,7 +4,7 @@ image: silge-robinson.png
 date: 2024-02-14
 author:
         - name: Casey O'Hara
-categories: [Upcoming event]
+categories: [Past event]
 order: 2
 ---
 ::: {.columns}
