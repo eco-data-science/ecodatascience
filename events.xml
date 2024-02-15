@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>EcoDataScience</title>
+<link>https://ecodatascience.github.io/events.html</link>
+<atom:link href="https://ecodatascience.github.io/events.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Visualizing Spatial Data: Basemaps and Intro to sf</title>
+  <dc:creator>Rachel King</dc:creator>
+  <link>https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><br> <img src="https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/basemap-image.png" class="img-fluid" style="width:90.0%"></p>
+</div><div class="column" style="width:80%;">
+<p><br></p>
+<p>MORE INFRMATION SOON</p>
+<p><strong>Wednesday March 6, 11:30-1 PM</strong>, <a href="https://www.library.ucsb.edu/dreamlab">DREAM Lab UCSB Library</a> (RM 2322, Mountain side of the building on the second floor.)</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Upcoming event</category>
+  <guid>https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/</guid>
+  <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/basemap-image.png" medium="image" type="image/png" height="75" width="144"/>
+</item>
+<item>
+  <title>Text Analysis</title>
+  <dc:creator>Casey O&#39;Hara</dc:creator>
+  <link>https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><br> <img src="https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/silge-robinson.png" class="img-fluid" style="width:90.0%"></p>
+</div><div class="column" style="width:80%;">
+<p>Working with dataframes and tabular data is straightforward in R, but what about working with unstructured text such as reports, websites, journal articles, and open-ended survey responses? In this workshop we will explore the basics of working with text data in R, focusing on the <code>tidytext</code> and <code>stringr</code> packages. We’ll touch on regular expressions, quantifying term frequency, plotting word clouds, and performing sentiment analysis.</p>
+<p><strong>Wednesday February 14, 11:30-1 PM</strong>, <a href="https://www.library.ucsb.edu/dreamlab">DREAM Lab UCSB Library</a> (RM 2322, Mountain side of the building on the second floor.)</p>
+<p>Pre-workshop prep:</p>
+<ol type="1">
+<li>install these packages (if not already installed): <code>tidyverse</code>, <code>here</code>, <code>tidytext</code>, <code>textdata</code>, <code>pdftools</code>, <code>ggwordcloud</code></li>
+<li>fork and clone this repository: <a href="https://github.com/ecodatascience/2024-02-14-tidytext" target="_blank">2024-02-14-tidytext</a></li>
+</ol>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Past event</category>
+  <guid>https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/</guid>
+  <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/silge-robinson.png" medium="image" type="image/png" height="28" width="144"/>
+</item>
+<item>
+  <title>Working with Census data in R</title>
+  <dc:creator>Camila Vargas Poulsen</dc:creator>
+  <link>https://ecodatascience.github.io/events-cards/2024-01-17-tidycensus/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><br> <img src="https://ecodatascience.github.io/events-cards/2024-01-17-tidycensus/tidycensus-logo.png" class="img-fluid" style="width:60.0%"></p>
+</div><div class="column" style="width:80%;">
+<p><br></p>
+<p>Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The <code>tidycensus</code> package (<a href="https://walker-data.com/tidycensus/">Walker and Herman 2021</a>) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the <code>tidycensus</code> to access census data efficiently and use <code>ggplot2</code> to plot and map this data at different census geographies (state, county, tract. etc.).</p>
+<p>Find all the metarials for this workshop <a href="https://github.com/ecodatascience/2024-01-17-tidycensus">here</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Past event</category>
+  <guid>https://ecodatascience.github.io/events-cards/2024-01-17-tidycensus/</guid>
+  <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/2024-01-17-tidycensus/tidycensus-logo.png" medium="image" type="image/png" height="167" width="144"/>
+</item>
+<item>
+  <title>GitHub for Project Management</title>
+  <dc:creator>Camila Vargas Poulsen</dc:creator>
+  <link>https://ecodatascience.github.io/events-cards/2023-12-05-github-pm/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><br> <img src="https://ecodatascience.github.io/events-cards/2023-12-05-github-pm/issues_projects_openscapes.png" class="img-fluid" style="width:90.0%"></p>
+</div><div class="column" style="width:80%;">
+<p>GitHub is mainly known as a version control platform that facilitates collaborative coding. Effective collaboration (with yourself or colleagues) requires good communication. GitHub offers several features that can support communication and project management. During this workshop, we will talk and practice how to structure a GitHub repository, taking advantage of GitHub Issues &amp; Projects, as a way of documenting and communicating your work process.</p>
+<p><strong>Tuesday December 5, 11:30-1 PM</strong>, <a href="https://www.library.ucsb.edu/dreamlab">DREAM Lab UCSB Library</a> (RM 2322, Mountain side of the building on the second floor.)</p>
+<p>Find workshop materials on the <a href="https://github.com/ecodatascience/2023-12-05-github-for-project-management">ecodatascience GitHub</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Past event</category>
+  <category>GitHub</category>
+  <guid>https://ecodatascience.github.io/events-cards/2023-12-05-github-pm/</guid>
+  <pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/2023-12-05-github-pm/issues_projects_openscapes.png" medium="image" type="image/png" height="70" width="144"/>
+</item>
+<item>
+  <title>Intro to tidymodels</title>
+  <dc:creator>Casey O&#39;Hara</dc:creator>
+  <link>https://ecodatascience.github.io/events-cards/2023-11-07-tidymodels/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The <code>tidymodels</code> package streamlines many aspects of statistical modeling and machine learning in R, using <code>tidyverse</code> principles.</p>
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><img src="https://ecodatascience.github.io/events-cards/2023-11-07-tidymodels/tidymodels.png" class="img-fluid" style="width:50.0%"></p>
+</div><div class="column" style="width:80%;">
+<p>This workshop will be a gentle introduction to the <code>tidymodels</code> package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.</p>
+<p><strong>Tuesday November 7, 11:30-1 PM</strong>, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxMZ7H-bH-fH8_jT9EXsHa3_Xu8rXqCAkCsRhHrRb7ujHx2A/viewform?usp=sf_link" target="_blank">here</a></p>
+<p>Pre-workshop prep:</p>
+<ol type="1">
+<li>install these packages (if not already installed): <code>tidyverse</code>, <code>here</code>, <code>tidymodels</code>, <code>ranger</code> (for random forest implementation)</li>
+<li>fork and clone this repository: <a href="https://github.com/ecodatascience/2023-11-07-tidymodels_workshop" target="_blank">2023-11-07-tidymodels_workshop</a></li>
+</ol>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Past event</category>
+  <category>R</category>
+  <guid>https://ecodatascience.github.io/events-cards/2023-11-07-tidymodels/</guid>
+  <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/2023-11-07-tidymodels/tidymodels_suits.png" medium="image" type="image/png" height="130" width="144"/>
+</item>
+<item>
+  <title>Past Workshops Materials</title>
+  <link>https://ecodatascience.github.io/events-cards/past-events/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Find the materials to past workshops on <a href="https://github.com/orgs/eco-data-science/repositories" target="_blank">GitHub</a>.</p>
+<!-- ADD A TABLE WITH THE INFORMSTION OF MOST RELEVANT WORKSHOPS AND DIRECT LING TO THE REPO-->
+<!-- [Introduction to Leaflet](https://github.com/eco-data-science/leaflet-intro). 2021. Mike Johnson & Marcela Suarez -->
+
+
+
+ ]]></description>
+  <category>Past event</category>
+  <category>R</category>
+  <category>GitHub</category>
+  <guid>https://ecodatascience.github.io/events-cards/past-events/</guid>
+  <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://ecodatascience.github.io/events-cards/past-events/ecodatasci_repos.png" medium="image" type="image/png" height="86" width="144"/>
+</item>
+</channel>
+</rss>
