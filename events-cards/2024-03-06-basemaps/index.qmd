@@ -19,7 +19,8 @@ order: 2
 
 <br>
 
-Upcoming event on how to create awesome maps with R. More details about this workshop soon. Save the date!
+R can be a powerful tool for visualizing spatial data. In this workshop, we will review the basics of working with vector spatial data in R using the `sf` package, demonstrate how to make simple maps with `ggplot2`, and show different ways to add basemaps to your visualizations.
+
 
 
 **Wednesday March 6, 11:30-1 PM**, [DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab) (RM 2322, Mountain side of the building on the second floor.)
