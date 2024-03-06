@@ -1,9 +1,9 @@
 ---
-title: "Basemaps and Intro to `sf`"
-# image: issues_projects_openscapes.png
+title: "Visualizing Spatial Data: Basemaps and Intro to `sf`"
+image: basemap-image.png
 date: 2024-03-06
 author:
-        - name: TBD
+        - name: Rachel King
 categories: [Upcoming event]
 order: 2
 ---
@@ -12,12 +12,15 @@ order: 2
 ::: {.column width="20%"}
 
 <br> 
-<!--![](issues_projects_openscapes.png){width=90%} -->
+![](basemap-image.png){width=90%}
 :::
 
 ::: {.column width="80%"}
 
-MORE INFRMATION SOON
+<br>
+
+R can be a powerful tool for visualizing spatial data. In this workshop, we will review the basics of working with vector spatial data in R using the `sf` package, demonstrate how to make simple maps with `ggplot2`, and show different ways to add basemaps to your visualizations.
+
 
 
 **Wednesday March 6, 11:30-1 PM**, [DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab) (RM 2322, Mountain side of the building on the second floor.)
