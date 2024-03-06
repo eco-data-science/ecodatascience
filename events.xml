@@ -39,7 +39,8 @@
 
 
  ]]></description>
-  <category>Upcoming event</category>
+  <category>Past event</category>
+  <category>R</category>
   <guid>https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/</guid>
   <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
   <media:content url="https://ecodatascience.github.io/events-cards/2024-03-06-basemaps/basemap-image.png" medium="image" type="image/png" height="75" width="144"/>
@@ -71,6 +72,7 @@
 
  ]]></description>
   <category>Past event</category>
+  <category>R</category>
   <guid>https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/</guid>
   <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
   <media:content url="https://ecodatascience.github.io/events-cards/2024-02-14-tidytext/silge-robinson.png" medium="image" type="image/png" height="28" width="144"/>
