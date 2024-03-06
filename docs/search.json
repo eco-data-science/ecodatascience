@@ -81,7 +81,7 @@
     "href": "events-cards/2024-03-06-basemaps/index.html",
     "title": "Basemaps and Intro to sf",
     "section": "",
-    "text": "MORE INFRMATION SOON\nWednesday March 6, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)"
+    "text": "MORE INFRMATION SOON\nWednesday March 6, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nPre-workshop prep:\n\nInstall these packages, if not already installed: tidyverse, ggplot2, patchwork, sf, ggspatial, maptiles, terra, tidyterra, tigris, prettymapr, cowplot, rosm\nSee the “Installing” section for help with installation of the sf package at https://r-spatial.github.io/sf/, as sf also requires installation of GDAL, GEOS, and PROJ\nFork and clone this repository for workshop materials and data: 2024-03-06-spatial-data-viz"
   },
   {
     "objectID": "welcome.html",
