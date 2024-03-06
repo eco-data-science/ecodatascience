@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -179,6 +179,12 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <p>R can be a powerful tool for visualizing spatial data. In this workshop, we will review the basics of working with vector spatial data in R using the <code>sf</code> package, demonstrate how to make simple maps with <code>ggplot2</code>, and show different ways to add basemaps to your visualizations.</p>
 <p><strong>Wednesday March 6, 11:30-1 PM</strong>, <a href="https://www.library.ucsb.edu/dreamlab">DREAM Lab UCSB Library</a> (RM 2322, Mountain side of the building on the second floor.)</p>
+<p>Pre-workshop prep:</p>
+<ul>
+<li>Install these packages, if not already installed: <code>tidyverse</code>, <code>ggplot2</code>, <code>patchwork</code>, <code>sf</code>, <code>ggspatial</code>, <code>maptiles</code>, <code>terra</code>, <code>tidyterra</code>, <code>tigris</code>, <code>prettymapr</code>, <code>cowplot</code>, <code>rosm</code></li>
+<li>See the “Installing” section for help with installation of the <code>sf</code> package at <a href="https://r-spatial.github.io/sf/">https://r-spatial.github.io/sf/</a>, as <code>sf</code> also requires installation of GDAL, GEOS, and PROJ</li>
+<li>Fork and clone this repository for workshop materials and data: <a href="https://github.com/ecodatascience/2024-03-06-spatial-data-viz" target="_blank">2024-03-06-spatial-data-viz</a></li>
+</ul>
 </div>
 </div>
 
@@ -264,6 +270,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/ecodatascience\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -298,7 +322,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
