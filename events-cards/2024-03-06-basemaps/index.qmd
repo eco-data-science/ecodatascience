@@ -4,7 +4,7 @@ image: basemap-image.png
 date: 2024-03-06
 author:
         - name: Rachel King
-categories: [Upcoming event]
+categories: [Past event, R]
 order: 2
 ---
 ::: {.columns}
