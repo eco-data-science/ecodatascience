@@ -1,0 +1,34 @@
+---
+title: "Introduction to rasters using `terra`"
+image: raster_img.gif
+date: 2024-05-14
+author:
+        - name: Jason Flower
+categories: [Upcoming event, R]
+order: 2
+---
+::: {.columns}
+
+::: {.column width="20%"}
+
+<br> 
+![](raster_img.gif){width=90%}
+:::
+
+::: {.column width="80%"}
+Workshop content: TBD
+
+
+**Tuesday May 14, time TBD PM**, Remote attendance only (Zoom link TBD)<!--[DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab){target='_blank'} (RM 2322, Mountain side of the building on the second floor.)-->
+
+<!-- [**RSVP HERE** please!](xxxxx){target='_blank'} -->
+
+Pre-workshop prep: TBD
+
+<!-- * Install these packages, if not already installed: `tidyverse`, `ggplot2`, `patchwork`, `sf`, `ggspatial`, `maptiles`, `terra`, `tidyterra`, `tigris`, `prettymapr`, `cowplot`, `rosm` -->
+<!-- * See the "Installing" section for help with installation of the `sf` package at [https://r-spatial.github.io/sf/](https://r-spatial.github.io/sf/), as `sf` also requires installation of GDAL, GEOS, and PROJ  -->
+<!-- * Fork and clone this repository for workshop materials and data: [2024-03-06-spatial-data-viz](https://github.com/ecodatascience/2024-03-06-spatial-data-viz){target='_blank'} -->
+
+:::
+
+:::
