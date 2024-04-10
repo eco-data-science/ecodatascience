@@ -7,11 +7,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "community-resources.html",
+    "href": "community-resources.html",
+    "title": "community resources",
+    "section": "",
+    "text": "EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science. While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely. Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!\n\nThe Carpentries (SB org | global org teaches foundational coding and data science skills to researchers worldwide.\nR-Ladies (SB chapter | global org) is a worldwide organization whose mission is to promote gender diversity in the R community.\nOpenScapes is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science.\nrOpenSci fosters a culture that values open and reproducible research using shared data and reusable software.\n\nDescriptions for these resources come from the various websites linked.\nIf you represent an organization with a similar mission, please reach out and we will include a link!"
+  },
+  {
     "objectID": "who-we-are.html",
     "href": "who-we-are.html",
     "title": "who we are",
     "section": "",
     "text": "EcoDataScience is a supportive and welcoming community of\n\n\nresearchers, students, practitioners, and academics\n\ninterested in learning and applying\n\n\n\ndata science principles and techniques\n\nprimarily in the context of\n\n\n\necology and environmental science.\n\n\nThe members of EcoDataScience learn, teach, collaborate, and support one another through our community-led workshops and Slack workspace. While we primarily support reproducible coding and workflows using R/RStudio in conjunction with Git/GitHub, our membership includes and welcomes newbies, practitioners, and experts in other languages, workflows, and development environments.\nOur organization was founded by researchers at NCEAS and UCSB’s Bren School in 2015, and our membership now includes over 500 members all over the world!\nWe are committed to maintaining a safe, welcoming, inclusive environment for all people at all levels of coding experience. All community members are expected to abide by our Code of Conduct in all interactions within the community.\n\n\n\nEcoDataScience coordinating committee:\nIf you would like to be involved in helping plan EcoDataScience events, such as proposing a workshop topic or teaching/co-teaching a future workshop, reach out to us!\n\nCamila Vargas Poulsen\nCasey O’Hara"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EcoDataScience",
+    "section": "",
+    "text": "An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.\nCome share your skills, learn from each other, troubleshoot together and meet people in your area of study.\n\nGet involved, join our Slack  community!\n\nEcoDataScience Slack"
   },
   {
     "objectID": "events-cards/2024-03-06-basemaps/index.html",
@@ -21,41 +35,6 @@
     "text": "R can be a powerful tool for visualizing spatial data. In this workshop, we will review the basics of working with vector spatial data in R using the sf package, demonstrate how to make simple maps with ggplot2, and show different ways to add basemaps to your visualizations.\nWednesday March 6, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nPre-workshop prep:\n\nInstall these packages, if not already installed: tidyverse, ggplot2, patchwork, sf, ggspatial, maptiles, terra, tidyterra, tigris, prettymapr, cowplot, rosm\nSee the “Installing” section for help with installation of the sf package at https://r-spatial.github.io/sf/, as sf also requires installation of GDAL, GEOS, and PROJ\nFork and clone this repository for workshop materials and data: 2024-03-06-spatial-data-viz"
   },
   {
-    "objectID": "events-cards/past-events/index.html",
-    "href": "events-cards/past-events/index.html",
-    "title": "Past Workshops Materials",
-    "section": "",
-    "text": "Find the materials to past workshops on GitHub."
-  },
-  {
-    "objectID": "events-cards/2023-12-05-github-pm/index.html",
-    "href": "events-cards/2023-12-05-github-pm/index.html",
-    "title": "GitHub for Project Management",
-    "section": "",
-    "text": "GitHub is mainly known as a version control platform that facilitates collaborative coding. Effective collaboration (with yourself or colleagues) requires good communication. GitHub offers several features that can support communication and project management. During this workshop, we will talk and practice how to structure a GitHub repository, taking advantage of GitHub Issues & Projects, as a way of documenting and communicating your work process.\nTuesday December 5, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nFind workshop materials on the ecodatascience GitHub"
-  },
-  {
-    "objectID": "community-resources.html",
-    "href": "community-resources.html",
-    "title": "community resources",
-    "section": "",
-    "text": "EcoDataScience exists within a rich culture of organizations dedicated to learning and practicing open, transparent, repeatable data science. While our members span the globe, our main focus is on serving the UCSB community, so many of the resources here focus on the Santa Barbara area, but we have included links to parent organizations for our members who live, work, and play remotely. Follow the links for more information, or start a discussion about these various resources in the EcoDataScience Slack workspace!\n\nThe Carpentries (SB org | global org teaches foundational coding and data science skills to researchers worldwide.\nR-Ladies (SB chapter | global org) is a worldwide organization whose mission is to promote gender diversity in the R community.\nOpenScapes is an approach and a movement that helps researchers and those supporting research find each other and feel empowered to conduct data-intensive science.\nrOpenSci fosters a culture that values open and reproducible research using shared data and reusable software.\n\nDescriptions for these resources come from the various websites linked.\nIf you represent an organization with a similar mission, please reach out and we will include a link!"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "events",
-    "section": "",
-    "text": "Visualizing Spatial Data: Basemaps and Intro to sf\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nRachel King\n\n\n\n\n\n\n\n\n\n\n\n\nText Analysis\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n\n\n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "EcoDataScience Code of Conduct",
-    "section": "",
-    "text": "inspirations for an EcoDataScience Code of Conduct:\n\nhttps://docs.carpentries.org/topic_folders/policies/code-of-conduct.html\nhttps://ropensci.org/code-of-conduct/\nhttps://www.mozilla.org/en-US/about/governance/policies/participation/\nhttps://openscapes.org/code-of-conduct\nhttps://rladies.org/coc/"
-  },
-  {
     "objectID": "events-cards/2024-01-17-tidycensus/index.html",
     "href": "events-cards/2024-01-17-tidycensus/index.html",
     "title": "Working with Census data in R",
@@ -63,11 +42,18 @@
     "text": "Working with census data can be tedious; you generally have to go to data.census.gov, filter data and queries based on variables and geographies, download data into a spreadsheet, upload it to R, etc. The tidycensus package (Walker and Herman 2021) was developed to systematize this process using R. During this session, we will review the general structure of the U.S Census, introduce the main functions of the tidycensus to access census data efficiently and use ggplot2 to plot and map this data at different census geographies (state, county, tract. etc.).\nFind all the metarials for this workshop here"
   },
   {
-    "objectID": "events-cards/2023-11-07-tidymodels/index.html",
-    "href": "events-cards/2023-11-07-tidymodels/index.html",
-    "title": "Intro to tidymodels",
+    "objectID": "events-cards/2024-04-23-text-analysis-2/index.html",
+    "href": "events-cards/2024-04-23-text-analysis-2/index.html",
+    "title": "Text analysis 2 - Intro to Natural Language Processing",
     "section": "",
-    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles.\n\n\n\n\nThis workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidymodels, ranger (for random forest implementation)\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
+    "text": "Building on skills learned in our intro to tidytext in R, in this workshop we will explore more advanced text mining and natural language processing techniques to extract information and make meaning of unstructured text, including topic modeling: using relationships between words in a collection of documents to identify clusters of common themes.\nIf you are interested in this workshop but new to text analysis, or need a refresher, we recommend working through the scripts from last quarter’s tidytext workshop to prepare for the current workshop.\nTuesday April 23, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nRSVP HERE please!\nPre-workshop prep: TBD"
+  },
+  {
+    "objectID": "events-cards/past-events/index.html",
+    "href": "events-cards/past-events/index.html",
+    "title": "Past Workshops Materials",
+    "section": "",
+    "text": "Find the materials to past workshops on GitHub."
   },
   {
     "objectID": "events-cards/2024-02-14-tidytext/index.html",
@@ -77,6 +63,27 @@
     "text": "Working with dataframes and tabular data is straightforward in R, but what about working with unstructured text such as reports, websites, journal articles, and open-ended survey responses? In this workshop we will explore the basics of working with text data in R, focusing on the tidytext and stringr packages. We’ll touch on regular expressions, quantifying term frequency, plotting word clouds, and performing sentiment analysis.\nWednesday February 14, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidytext, textdata, pdftools, ggwordcloud\nfork and clone this repository: 2024-02-14-tidytext"
   },
   {
+    "objectID": "events-cards/2023-12-05-github-pm/index.html",
+    "href": "events-cards/2023-12-05-github-pm/index.html",
+    "title": "GitHub for Project Management",
+    "section": "",
+    "text": "GitHub is mainly known as a version control platform that facilitates collaborative coding. Effective collaboration (with yourself or colleagues) requires good communication. GitHub offers several features that can support communication and project management. During this workshop, we will talk and practice how to structure a GitHub repository, taking advantage of GitHub Issues & Projects, as a way of documenting and communicating your work process.\nTuesday December 5, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nFind workshop materials on the ecodatascience GitHub"
+  },
+  {
+    "objectID": "events-cards/2023-11-07-tidymodels/index.html",
+    "href": "events-cards/2023-11-07-tidymodels/index.html",
+    "title": "Intro to tidymodels",
+    "section": "",
+    "text": "The tidymodels package streamlines many aspects of statistical modeling and machine learning in R, using tidyverse principles.\n\n\n\n\nThis workshop will be a gentle introduction to the tidymodels package and how we can use it to set up simple models and select the best among competing models - a fundamental idea behind machine learning.\nTuesday November 7, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.) Please RSVP here\nPre-workshop prep:\n\ninstall these packages (if not already installed): tidyverse, here, tidymodels, ranger (for random forest implementation)\nfork and clone this repository: 2023-11-07-tidymodels_workshop"
+  },
+  {
+    "objectID": "events-cards/2024-05-14-terra/index.html",
+    "href": "events-cards/2024-05-14-terra/index.html",
+    "title": "Introduction to rasters using terra",
+    "section": "",
+    "text": "Workshop content: TBD\nTuesday May 14, time TBD PM, Remote attendance only (Zoom link TBD)\n\nPre-workshop prep: TBD"
+  },
+  {
     "objectID": "welcome.html",
     "href": "welcome.html",
     "title": "EcoDataScience",
@@ -84,10 +91,17 @@
     "text": "new to EcoDataScience? start here!\nOur EcoDataScience workshops primarily focus on reproducible code in the R statistical programming language. We happily welcome and support new coders! However, some familiarity with R, RStudio, Git, and Github will help you hit the ground running. Additionally, many of our workshops presume some familiarity with the tidyverse family of R packages and their associated philosophy and coding style. These resources are all free and easily accessible. Here are some resources to get you started:\n\nInstalling and configuring Git on your computer\nInstalling R and RStudio on your computer\nIntroduction to programming in R\nIntroduction to data wrangling with the tidyverse\n\nIf you have any questions or need some help getting up and running with these resources, reach out on Slack on the #beginnershelp channel, or send a direct message to one of the EcoDataScience coordinators.\n\n\n(HeartyR art by the one and only @allison_horst)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "EcoDataScience",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "events",
     "section": "",
-    "text": "An environmental data science community based at the University of California Santa Barbara (UCSB), open to anyone who is interested in joining the journey of learning, advancing and applying data science skills in the environmental and ecological field.\nCome share your skills, learn from each other, troubleshoot together and meet people in your area of study.\n\nGet involved, join our Slack  community!\n\nEcoDataScience Slack"
+    "text": "Introduction to rasters using terra\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nJason Flower\n\n\n\n\n\n\n\n\n\n\n\n\nText analysis 2 - Intro to Natural Language Processing\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data: Basemaps and Intro to sf\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nRachel King\n\n\n\n\n\n\n\n\n\n\n\n\nText Analysis\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n\n\n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n\n\n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "EcoDataScience Code of Conduct",
+    "section": "",
+    "text": "inspirations for an EcoDataScience Code of Conduct:\n\nhttps://docs.carpentries.org/topic_folders/policies/code-of-conduct.html\nhttps://ropensci.org/code-of-conduct/\nhttps://www.mozilla.org/en-US/about/governance/policies/participation/\nhttps://openscapes.org/code-of-conduct\nhttps://rladies.org/coc/"
   }
 ]
