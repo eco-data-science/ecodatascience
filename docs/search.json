@@ -16,7 +16,7 @@
   {
     "objectID": "events-cards/2024-05-14-terra/index.html",
     "href": "events-cards/2024-05-14-terra/index.html",
-    "title": "Introduction to rasters using terra",
+    "title": "Introduction to Rasters Using terra",
     "section": "",
     "text": "Workshop content: TBD\nTuesday May 14, time TBD PM, Remote attendance only (Zoom link TBD)\n\nPre-workshop prep: TBD"
   },
@@ -53,7 +53,7 @@
     "href": "events.html",
     "title": "events",
     "section": "",
-    "text": "Introduction to rasters using terra\n\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nJason Flower\n\n\n\n\n\n\n  \n\n\n\n\nText analysis 2 - Intro to Natural Language Processing\n\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Spatial Data: Basemaps and Intro to sf\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nRachel King\n\n\n\n\n\n\n  \n\n\n\n\nText Analysis\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction to Rasters Using terra\n\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nJason Flower\n\n\n\n\n\n\n  \n\n\n\n\nText Analysis 2 - Intro to Natural Language Processing\n\n\n\n\n\n\n\nUpcoming event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nApr 23, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Spatial Data: Basemaps and Intro to sf\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2024\n\n\nRachel King\n\n\n\n\n\n\n  \n\n\n\n\nText Analysis\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nFeb 14, 2024\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nWorking with Census data in R\n\n\n\n\n\n\n\nPast event\n\n\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nGitHub for Project Management\n\n\n\n\n\n\n\nPast event\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nCamila Vargas Poulsen\n\n\n\n\n\n\n  \n\n\n\n\nIntro to tidymodels\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nNov 7, 2023\n\n\nCasey O’Hara\n\n\n\n\n\n\n  \n\n\n\n\nPast Workshops Materials\n\n\n\n\n\n\n\nPast event\n\n\nR\n\n\nGitHub\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "community-resources.html",
@@ -86,7 +86,7 @@
   {
     "objectID": "events-cards/2024-04-23-text-analysis-2/index.html",
     "href": "events-cards/2024-04-23-text-analysis-2/index.html",
-    "title": "Text analysis 2 - Intro to Natural Language Processing",
+    "title": "Text Analysis 2 - Intro to Natural Language Processing",
     "section": "",
     "text": "Building on skills learned in our intro to tidytext in R, in this workshop we will explore more advanced text mining and natural language processing techniques to extract information and make meaning of unstructured text, including topic modeling: using relationships between words in a collection of documents to identify clusters of common themes.\nIf you are interested in this workshop but new to text analysis, or need a refresher, we recommend working through the scripts from last quarter’s tidytext workshop to prepare for the current workshop.\nTuesday April 23, 11:30-1 PM, DREAM Lab UCSB Library (RM 2322, Mountain side of the building on the second floor.)\nRSVP HERE please!\nPre-workshop prep: TBD"
   },

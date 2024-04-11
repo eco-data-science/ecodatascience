@@ -1,5 +1,5 @@
 ---
-title: "Text analysis 2 - Intro to Natural Language Processing"
+title: "Text Analysis 2 - Intro to Natural Language Processing"
 image: word_network.png
 date: 2024-04-23
 author:

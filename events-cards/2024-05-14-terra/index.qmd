@@ -1,5 +1,5 @@
 ---
-title: "Introduction to rasters using `terra`"
+title: "Introduction to Rasters Using `terra`"
 image: raster_img.gif
 date: 2024-05-14
 author:
