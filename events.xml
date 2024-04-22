@@ -59,11 +59,12 @@
 <p>Building on skills learned in our intro to <code>tidytext</code> in R, in this workshop we will explore more advanced text mining and natural language processing techniques to extract information and make meaning of unstructured text, including topic modeling: using relationships between words in a collection of documents to identify clusters of common themes.</p>
 <p>If you are interested in this workshop but new to text analysis, or need a refresher, we recommend working through the scripts from last quarter’s <a href="https://github.com/ecodatascience/2024-02-14-tidytext" target="_blank"><code>tidytext</code> workshop</a> to prepare for the current workshop.</p>
 <p><strong>Tuesday April 23, 11:30-1 PM</strong>, <a href="https://www.library.ucsb.edu/dreamlab" target="_blank">DREAM Lab UCSB Library</a> (RM 2322, Mountain side of the building on the second floor.)</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSevIH9RGPclfzhF3Od4BdDedHYBrUPCLhjTcKgGFpp4977QIQ/viewform" target="_blank"><strong>RSVP HERE</strong> please!</a></p>
-<p>Pre-workshop prep: TBD</p>
-<!-- * Install these packages, if not already installed: `tidyverse`, `ggplot2`, `patchwork`, `sf`, `ggspatial`, `maptiles`, `terra`, `tidyterra`, `tigris`, `prettymapr`, `cowplot`, `rosm` -->
-<!-- * See the "Installing" section for help with installation of the `sf` package at [https://r-spatial.github.io/sf/](https://r-spatial.github.io/sf/), as `sf` also requires installation of GDAL, GEOS, and PROJ  -->
-<!-- * Fork and clone this repository for workshop materials and data: [2024-03-06-spatial-data-viz](https://github.com/ecodatascience/2024-03-06-spatial-data-viz){target='_blank'} -->
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSevIH9RGPclfzhF3Od4BdDedHYBrUPCLhjTcKgGFpp4977QIQ/viewform" target="_blank"><strong>RSVP HERE</strong> please (for in-person or remote)!</a></p>
+<p>Pre-workshop prep:</p>
+<ul>
+<li>Install these packages, if not already installed: <code>tidyverse</code>, <code>tidytext</code>, <code>synthesisr</code>, <code>topicmodels</code>, <code>ggwordcloud</code></li>
+<li>Fork and clone this repository for workshop materials and data: <a href="https://github.com/ecodatascience/2024-04-23-natural-language-processing" target="_blank">2024-04-23-natural-language-processing</a></li>
+</ul>
 </div>
 </div>
 
