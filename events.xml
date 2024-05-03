@@ -9,7 +9,7 @@
 <link>https://ecodatascience.github.io/events.html</link>
 <atom:link href="https://ecodatascience.github.io/events.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.553</generator>
+<generator>quarto-1.4.554</generator>
 <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Introduction to Rasters Using terra</title>
@@ -71,7 +71,7 @@
 
 
  ]]></description>
-  <category>Upcoming event</category>
+  <category>Past event</category>
   <category>R</category>
   <guid>https://ecodatascience.github.io/events-cards/2024-04-23-text-analysis-2/</guid>
   <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
