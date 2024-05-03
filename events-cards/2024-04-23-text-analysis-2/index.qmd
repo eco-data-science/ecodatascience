@@ -4,7 +4,7 @@ image: word_network.png
 date: 2024-04-23
 author:
         - name: Casey O'Hara
-categories: [Upcoming event, R]
+categories: [Past event, R]
 order: 2
 ---
 ::: {.columns}
