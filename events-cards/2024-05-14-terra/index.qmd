@@ -16,12 +16,12 @@ order: 2
 :::
 
 ::: {.column width="80%"}
-Rasters are commonly used to represent continuous spatial data such as elevation and temperature. This workshop will give a gentle introduction to using the R package `terra` to manipulate and plot raster data. No prior knowledge of spatial data is needed, but basic familiarity with R is assumed. For those migrating from `terra`'s predecessor package `raster`, I will describe some of the changes to functions.
+"Rasters are commonly used to represent continuous spatial data such as elevation and temperature. This workshop will give a gentle introduction to using the R package `terra` to manipulate and plot raster data. No prior knowledge of spatial data is needed, but basic familiarity with R is assumed. For those migrating from `terra`'s predecessor package `raster`, I will describe some of the changes to functions."
 
 
 **Tuesday May 14, 3:00 PM**, Remote attendance only (Zoom link TBD)<!--[DREAM Lab UCSB Library](https://www.library.ucsb.edu/dreamlab){target='_blank'} (RM 2322, Mountain side of the building on the second floor.)-->
 
-<!-- [**RSVP HERE** please!](xxxxx){target='_blank'} -->
+[**RSVP HERE** please!](https://docs.google.com/forms/d/e/1FAIpQLScohE3ZlCJ9WzG23TGYNAsCJgrp0L9SWUQ1tnXCR8g0p3xCzg/viewform?usp=sf_link){target='_blank'} By Monday May 13.
 
 Pre-workshop prep: TBD (RSVP to get an email and Zoom link)
 
